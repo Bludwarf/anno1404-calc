@@ -1,5 +1,7 @@
 # anno1404-calc
 
+[![Build Status](https://travis-ci.com/Bludwarf/anno1404-calc.svg?branch=master)](https://travis-ci.com/Bludwarf/anno1404-calc)
+
 ## Project setup
 ```
 yarn install
